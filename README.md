@@ -30,4 +30,8 @@ In this session, you'll learn how to create pull requests, collaborate with othe
 
 ## Participants
 - Barrack Okoth
+- Mailanyi Ismail
+- Joshua Rwanda
+- Samuel kanyingi
+- Jesse Chomba
 - Kendi D
