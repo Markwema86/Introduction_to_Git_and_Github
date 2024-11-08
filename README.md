@@ -29,4 +29,4 @@ In this session, you'll learn how to create pull requests, collaborate with othe
 7. **Create a pull request**: Go to the original repository on GitHub and create a pull request with your changes.
 
 ## Participants
-- [ ] Add your name here
+- [ ] Barrack Okoth
