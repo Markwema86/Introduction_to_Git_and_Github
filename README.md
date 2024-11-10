@@ -35,3 +35,4 @@ In this session, you'll learn how to create pull requests, collaborate with othe
 - Samuel kanyingi
 - Jesse Chomba
 - Kendi D
+- Sharon Kitavi
