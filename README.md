@@ -39,3 +39,4 @@ In this session, you'll learn how to create pull requests, collaborate with othe
 - Jesse Chomba
 - Kendi D
 - Sharon Kitavi
+- Mark Wema
